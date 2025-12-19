@@ -14,7 +14,7 @@
 ### 🔧 Мой стек
 **Backend:** Python, Django / DRF, FastAPI, Flask, aiohttp  
 **Базы данных:** PostgreSQL, SQLite  
-**Инфраструктура:** Docker, GitHub, Nginx, CI/CD (GitHub Actions)  
+**Инфраструктура:** Docker, Docker Compose, GitHub, Nginx, CI/CD (GitHub Actions)  
 **Парадигмы & принципы:** REST API, OOP, SOLID, TDD (pytest/unittest)
 
 ---
