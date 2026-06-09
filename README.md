@@ -19,7 +19,7 @@
 
 ---
 
-[![LeetCode Stats](https://jacoblin.cool)](https://leetcode.com/natix_dev/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/natix_dev?theme=unicorn&font=JetBrains%20Mono&ext=heatmap)
 
 ---
 
