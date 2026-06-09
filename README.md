@@ -19,6 +19,10 @@
 
 ---
 
+![LeetCode Stats](https://leetcode.com/u/natix_dev/)
+
+---
+
 ### 📁 Портфолио
 
 | Проект | Описание | Стек | Ссылка |
