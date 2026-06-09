@@ -19,7 +19,7 @@
 
 ---
 
-![LeetCode Stats](https://leetcode.com/u/natix_dev/)
+![LeetCode Stats](https://leetcode.com/natix_dev/)
 
 ---
 
